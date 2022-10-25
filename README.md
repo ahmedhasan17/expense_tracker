@@ -1,4 +1,4 @@
-#Expense_Tracker_App
+# Expense_Tracker_App
 
 A simple Expense Tracker designed using React JS.
 
