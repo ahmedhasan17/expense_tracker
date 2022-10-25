@@ -1,4 +1,4 @@
-A simple Expense Tracker designed using React JS. Backend is powered by Firebase.
+A simple Expense Tracker designed using React JS.
 
 In this projects there are basic tools of React Js used to make this framework
 
